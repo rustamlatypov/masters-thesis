@@ -25,6 +25,9 @@ Sebastian Brandt, Manuela Fischer, and Jara Uitto. Matching and MIS for uniforml
 <a id="1">[4]</a> 
 Sebastian Brandt, Manuela Fischer, and Jara Uitto. Breaking the linear-memory barrier in MPC: Fast MIS on trees with strongly sublinear memory. In Structural Information and Communication Complexity (SIROCCO’19), pages 124–138, 2019. https://doi.org/10.1007/978-3-030-24922-9_9
 
+<a id="1">[5]</a> 
+Yi-Jun Chang and Seth Pettie. A time hierarchy theorem for the LOCAL model. In IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS’17), pages 156–167, 2017. https://doi.org/10.1109/FOCS.2017.23
+
 ## Author
 
 [Rustam Latypov](mailto:rustam.latypov@aalto.fi)
