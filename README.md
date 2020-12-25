@@ -12,6 +12,14 @@ The challenges faced when designing graph coloring algorithms are dictated by th
 
 Before computing a 3-coloring, our algorithm partitions the input tree into disjoint node sets H_1,H_2,...,H_l, in O(log log n) time. For each node v in H_i, it holds that v has at most two neighbors in the set U_{j=i}^l H_j. We consider this partitioning in and of itself an important contribution, since it has the potential of being a useful subroutine in future algorithms. For example, a similar technique was used by Chang et al. \cite{chang} in their seminal paper to establish an important time hierarchy theorem for the distributed LOCAL model on trees. 
 
+[[1]](#1).
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
 
 ## Author
 
