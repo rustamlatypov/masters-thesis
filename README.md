@@ -6,7 +6,7 @@ Developed during June - December, 2020.
 
 ## Abstract
 
-The question of what problems can be solved, and how efficiently, has always been at the core of theoretical computer science. One such fundamental problem is graph coloring; it is well researched and has numerous applications in areas of computer science such as scheduling and pattern matching./
+The question of what problems can be solved, and how efficiently, has always been at the core of theoretical computer science. One such fundamental problem is graph coloring; it is well researched and has numerous applications in areas of computer science such as scheduling and pattern matching.
 
 The challenges faced when designing graph coloring algorithms are dictated by the underlying graph family, the number of colors allowed, and the model of computation. In this work we consider the graph family of trees and the distributed Massively Parallel Computation (MPC) model, introduced by Karloff et al. [[1]](#1). Our contribution to the field of distributed computing is a deterministic strongly sublinear MPC algorithm for 3-coloring unbounded degree trees with n nodes in O(log log n) time. To the best of our knowledge, this is the current state-of-the-art algorithm, improving on the work of Ghaffari et al. [[2]](#2). It is loosely based on two previous works by Brandt et al. [[3]](#3) [[4]](#4).
 
