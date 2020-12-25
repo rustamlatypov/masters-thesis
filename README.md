@@ -14,7 +14,7 @@ Before computing a 3-coloring, our algorithm partitions the input tree into disj
 
 ## References
 <a id="1">[1]</a> 
-Howard Karloff, Siddharth Suri, and Sergei Vassilvitskii.  A model ofcomputation for MapReduce. InProceedings of the 2010 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’10), pages 938–948,2010.https://doi.org/10.1137/1.9781611973075.76.
+Howard Karloff, Siddharth Suri, and Sergei Vassilvitskii.  A model of computation for MapReduce. InProceedings of the 2010 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’10), pages 938–948,2010. https://doi.org/10.1137/1.9781611973075.76.
 
 
 ## Author
