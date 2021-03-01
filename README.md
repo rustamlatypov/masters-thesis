@@ -1,6 +1,6 @@
 # Coloring Sparse Graphs with 3 Colors in the Massively Parallel Computation (MPC) Model Using Strongly Sublinear Memory
 
-Masters's thesis at Aalto University \href{https://aaltodoc.aalto.fi/handle/123456789/102452}{[aaltodoc.aalto.fi/handle/123456789/102452]}.
+Masters's thesis at Aalto University [https://aaltodoc.aalto.fi/handle/123456789/102452].
 
 Developed during June - December, 2020.
 
